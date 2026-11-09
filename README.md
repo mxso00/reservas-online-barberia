@@ -44,6 +44,17 @@ Casi todas las barberías pequeñas llevan las citas igual: mensajes de WhatsApp
 - **Ajustes sin tocar código**: servicios y precios, horario con descanso a mediodía, cada cuánto empiezan las citas y con cuánta antelación se puede reservar.
 - Llamar o escribir por WhatsApp a cada cliente desde su cita, con el mensaje ya escrito.
 
+<p align="center">
+  <img src="capturas/04-agenda.jpg" width="200" alt="Agenda del día con descanso y un bloqueo">
+  &nbsp;
+  <img src="capturas/05-bloquear.jpg" width="200" alt="Bloquear la mañana, la tarde, el día o unas horas">
+  &nbsp;
+  <img src="capturas/06-nueva-cita.jpg" width="200" alt="Nueva cita: las horas bloqueadas salen en rojo">
+  &nbsp;
+  <img src="capturas/07-horario.jpg" width="200" alt="Ajustes del horario con dos tramos por día">
+</p>
+<p align="center"><sub>Agenda del día · Bloquear huecos · Nueva cita · Horario</sub></p>
+
 ### Seguro y sin sorpresas
 - **Nunca dos citas a la vez**: lo impide la propia base de datos, aunque dos clientes pulsen «Reservar» en el mismo segundo.
 - **Privacidad**: un cliente no puede ver las citas ni los teléfonos de nadie. Las reglas de seguridad están en la base de datos, no solo en la web.
