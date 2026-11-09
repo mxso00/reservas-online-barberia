@@ -2,7 +2,6 @@
   <img src="capturas/navaja-icon.png" width="96" alt="Navaja">
 </p>
 
-<h1 align="center">Navaja</h1>
 <p align="center"><strong>Reservas online para barberías.</strong><br>Tus clientes reservan solos, en un minuto y desde el móvil. Tú solo cortas el pelo.</p>
 
 ---
